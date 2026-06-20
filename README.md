@@ -1,4 +1,4 @@
-# Eddison — Tech Entrepreneur 🚀
+# Eddch | Tech Entrepreneur 🚀
 
 > Building innovative solutions in CRM, SaaS, and Real Estate Technology
 >
