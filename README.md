@@ -4,8 +4,12 @@
 </picture>
 
 <p align="center">
-  <a href="https://convello.com.br"><img src="https://img.shields.io/badge/convello.com.br-3665e4?style=flat-square&logoColor=white" alt="convello.com.br"></a>
-  <a href="https://r12company.com"><img src="https://img.shields.io/badge/R12_Company-57606a?style=flat-square" alt="R12 Company"></a>
+  <a href="https://r12company.com"><img src="assets/r12.svg" height="120" alt="R12 Company"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://convello.com.br"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/convello-escuro.svg">
+    <img src="assets/convello.svg" height="120" alt="Convello">
+  </picture></a>
 </p>
 
 Construo e opero software que empresas usam para vender e atender pelo WhatsApp: do produto ao servidor, passando por atendimento com IA e cobrança.
