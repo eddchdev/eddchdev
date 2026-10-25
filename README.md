@@ -33,8 +33,8 @@ Além disso, CRMs sob medida para revendas de veículos e empresas de serviço d
 ## Tecnologias
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,vite,tailwind,nodejs,java,spring,postgres,redis,docker,nginx,cloudflare,linux,tauri,electron,git&perline=8&theme=dark">
-  <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,nodejs,java,spring,postgres,redis,docker,nginx,cloudflare,linux,tauri,electron,git&perline=8&theme=light" alt="TypeScript, React, Vite, Tailwind, Node.js, Java, Spring, PostgreSQL, Redis, Docker, nginx, Cloudflare, Linux, Tauri, Electron e Git">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cvite%2Ctailwind%2Cnodejs%2Cjava%2Cspring%2Cpostgres%2Credis%2Cdocker%2Cnginx%2Ccloudflare%2Clinux%2Ctauri%2Celectron%2Cgit&perline=8&theme=dark">
+  <img src="https://skillicons.dev/icons?i=ts%2Creact%2Cvite%2Ctailwind%2Cnodejs%2Cjava%2Cspring%2Cpostgres%2Credis%2Cdocker%2Cnginx%2Ccloudflare%2Clinux%2Ctauri%2Celectron%2Cgit&perline=8&theme=light" alt="TypeScript, React, Vite, Tailwind, Node.js, Java, Spring, PostgreSQL, Redis, Docker, nginx, Cloudflare, Linux, Tauri, Electron e Git">
 </picture>
 
 Também no dia a dia: Fastify, Drizzle ORM, BullMQ, API oficial do WhatsApp, Baileys, Instagram Graph API e IA com Gemini, OpenAI e Claude.
