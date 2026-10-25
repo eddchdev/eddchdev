@@ -23,8 +23,7 @@ Além disso, CRMs sob medida para revendas de veículos e empresas de serviço d
 | Projeto | O que é |
 |---|---|
 | [AgentDesk](https://github.com/eddchdev/agentdesk) | Quadro operacional para coordenar várias sessões do Claude Code como uma equipe (servidor MCP e app desktop em Electron). |
-| [JocketEngine](https://github.com/eddchdev/JocketEngine) | Engine de jogos 2D em Java, sem dependências externas. |
-| [Shadowblade](https://github.com/eddchdev/shadowblade) | Jogo de ação 2D feito com a JocketEngine. |
+| [Shadowblade](https://github.com/eddchdev/shadowblade) | Jogo de ação 2D em Java. |
 
 ## Tecnologias que uso no dia a dia
 
