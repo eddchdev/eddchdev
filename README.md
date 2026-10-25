@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://convello.com.br"><img src="https://img.shields.io/badge/convello.com.br-3665e4?style=flat-square&logoColor=white" alt="convello.com.br"></a>
-  <a href="https://r12company.com"><img src="https://img.shields.io/badge/R12_Company-0b0f17?style=flat-square" alt="R12 Company"></a>
+  <a href="https://r12company.com"><img src="https://img.shields.io/badge/R12_Company-57606a?style=flat-square" alt="R12 Company"></a>
 </p>
 
 Construo e opero software que empresas usam para vender e atender pelo WhatsApp: do produto ao servidor, passando por atendimento com IA e cobrança.
@@ -18,11 +18,11 @@ Construo e opero software que empresas usam para vender e atender pelo WhatsApp:
 - Funil de vendas, imóveis, site da empresa com domínio próprio, disparos e relatórios.
 - Em produção, atendendo imobiliárias e empresas de serviço.
 
-| | |
-|---|---|
-| **Convello Desk** | Aplicativo de mesa para a equipe atender a fila de conversas sem abrir o navegador. |
-| **Convello Voice** | Agente de IA que liga e conversa por voz pelo WhatsApp. |
-| **Kubra** | Gateway de pagamento com checkout, produtos e integrações. |
+**Convello Desk**: aplicativo de mesa para a equipe atender a fila de conversas sem abrir o navegador.
+
+**Convello Voice**: agente de IA que liga e conversa por voz pelo WhatsApp.
+
+**Kubra**: gateway de pagamento com checkout, produtos e integrações.
 
 Além disso, CRMs sob medida para revendas de veículos e empresas de serviço de campo.
 
