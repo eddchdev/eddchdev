@@ -4,11 +4,11 @@
 </picture>
 
 <p align="center">
-  <a href="https://r12company.com"><img src="assets/r12.svg" height="120" alt="R12 Company"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://r12company.com"><img src="assets/r12.svg" height="110" alt="R12 Company"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://convello.com.br"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/convello-escuro.svg">
-    <img src="assets/convello.svg" height="120" alt="Convello">
+    <img src="assets/convello.svg" height="110" alt="Convello">
   </picture></a>
 </p>
 
